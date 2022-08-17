@@ -19,8 +19,8 @@
  *
  */
 
-#ifndef MCM_4_00_H
-#define MCM_4_00_H
+#ifndef McM_4_00_H
+#define McM_4_00_H
 
 #ifdef ESP32
   #define "esp32/MCM_ESP32_4_00.h"
