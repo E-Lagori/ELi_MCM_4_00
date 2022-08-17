@@ -1,7 +1,7 @@
 /*
  * Redirects the header to appropriate version of microcontroler header file
  *
- * Copyright (C) 2018  ELagori https://github.com/
+ * Copyright (C) 2018  E-Lagori https://github.com/E-Lagori/ELi_McM_4_00
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
