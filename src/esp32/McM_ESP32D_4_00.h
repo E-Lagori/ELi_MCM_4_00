@@ -1,6 +1,6 @@
 /* Header for McM_ESP32D_4_00.h
  *
- * Copyright (C) 2018  ELAGORi https://github.com/
+ * Copyright (C) 2018  E-LAGORi https://github.com/E-Lagori/ELi_McM_4_00
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
