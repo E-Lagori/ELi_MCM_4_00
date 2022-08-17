@@ -1,12 +1,3 @@
-/*****************************************
- * Library   : MCM_4_00 - Library for Microcontroller modules of ELagori of version 4.00.
- * Programmer: Dr. Anish Bekal
- * Comments  : This library is to use with Microcontroller modules of ELagori
- * Versions  :
- * ------ 	---------- 		-------------------------
- * 1.0.0  	2022-08-17		First beta
- *****************************************/
-
 /*
  * Redirects the header to appropriate version of microcontroler header file
  *
