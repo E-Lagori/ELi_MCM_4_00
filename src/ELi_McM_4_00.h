@@ -23,7 +23,7 @@
 #define ELi_McM_4_00_H
 
 #ifdef ESP32
-  #define "esp32/McM_ESP32D_4_00.h"
+  #include "esp32/McM_ESP32D_4_00.h"
 #else 
   #error "Controller not supported"
 #endif
