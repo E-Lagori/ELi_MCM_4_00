@@ -23,6 +23,8 @@
 #ifndef McM_ESP32D_4_00.h
 
 #define McM_ESP32D_4_00.h
+#include <stdint.h>
+#include <Arduino.h>
 
 # define CtrlBUS_Q 36
 # define CtrlBUS_R 39
@@ -106,6 +108,8 @@
 #define McM_ESP32D_4_00_CH_P 15
 
 #define McM_ESP32D_4_00_CH_ADC_DAC 26
-#define McM_ESP32D_4_00_LED 00
+#define McM_4_00_LED 00
+
+int MCM_ESP32D_4_00_Setmux(uint8_t);
 
 #endif
