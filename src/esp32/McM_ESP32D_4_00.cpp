@@ -1,5 +1,5 @@
 #include <ELi_McM_4_00.h>
-int Setmux(uint8_t m)
+int MCM_ESP32D_4_00_Setmux(uint8_t m)
 {
   pinMode(MUX_S0, OUTPUT);
   pinMode(MUX_S1, OUTPUT);
