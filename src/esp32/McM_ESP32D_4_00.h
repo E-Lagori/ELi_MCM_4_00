@@ -43,40 +43,40 @@
 # define CtrlBUS_AE 33
 # define CtrlBUS_AF 32
 
-# define I_A 26
-# define I_B 26
-# define I_C 26
-# define I_D 26
-# define I_E 26
-# define I_F 26
-# define I_G 26
-# define I_H 26
-# define I_I 26
-# define I_J 26
-# define I_K 26
-# define I_L 26
-# define I_M 26
-# define I_N 26
-# define I_O 26
-# define I_P 26
+# define I_A 00
+# define I_B 01
+# define I_C 02
+# define I_D 03
+# define I_E 04
+# define I_F 05
+# define I_G 06
+# define I_H 07
+# define I_I 08
+# define I_J 09
+# define I_K 10
+# define I_L 11
+# define I_M 12
+# define I_N 13
+# define I_O 14
+# define I_P 15
 
 
-# define O_A 26
-# define O_B 26
-# define O_C 26
-# define O_D 26
-# define O_E 26
-# define O_F 26
-# define O_G 26
-# define O_H 26
-# define O_I 26
-# define O_J 26
-# define O_K 26
-# define O_L 26
-# define O_M 26
-# define O_N 26
-# define O_O 26
-# define O_P 26
+# define O_A 00
+# define O_B 01
+# define O_C 02
+# define O_D 03
+# define O_E 04
+# define O_F 05
+# define O_G 06
+# define O_H 07
+# define O_I 08
+# define O_J 09
+# define O_K 10
+# define O_L 11
+# define O_M 12
+# define O_N 13
+# define O_O 14
+# define O_P 15
 
 #define MISO 15
 #define MOSI 02
@@ -110,6 +110,6 @@
 #define McM_ESP32D_4_00_CH_ADC_DAC 26
 #define McM_4_00_LED 00
 
-int MCM_ESP32D_4_00_Setmux(uint8_t);
+int MCM_ESP32D_4_00_Setmux(uint8_t m,bool i = 0);
 
 #endif
