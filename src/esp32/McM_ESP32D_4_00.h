@@ -110,6 +110,6 @@
 #define McM_ESP32D_4_00_CH_ADC_DAC 26
 #define McM_4_00_LED 00
 
-int MCM_ESP32D_4_00_Setmux(uint8_t m,bool i = 0);
+int McM_ESP32D_4_00_Setmux(uint8_t m,bool i = 0);
 
 #endif
