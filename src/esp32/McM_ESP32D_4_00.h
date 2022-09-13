@@ -83,7 +83,7 @@
 #define SCLK 04
 
 #define SCL 27
-#define SDA 13
+#define SDA 14
 
 #define MUX_S0 15
 #define MUX_S1 02
