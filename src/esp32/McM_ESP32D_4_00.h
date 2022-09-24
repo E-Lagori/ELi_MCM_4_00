@@ -43,16 +43,16 @@
 # define CtrlBUS_AE 33
 # define CtrlBUS_AF 32
 
-# define I_A 00
-# define I_B 01
-# define I_C 02
-# define I_D 03
-# define I_E 04
-# define I_F 05
-# define I_G 06
-# define I_H 07
-# define I_I 08
-# define I_J 09
+# define I_A 0
+# define I_B 1
+# define I_C 2
+# define I_D 3
+# define I_E 4
+# define I_F 5
+# define I_G 6
+# define I_H 7
+# define I_I 8
+# define I_J 9
 # define I_K 10
 # define I_L 11
 # define I_M 12
@@ -61,16 +61,16 @@
 # define I_P 15
 
 
-# define O_A 00
-# define O_B 01
-# define O_C 02
-# define O_D 03
-# define O_E 04
-# define O_F 05
-# define O_G 06
-# define O_H 07
-# define O_I 08
-# define O_J 09
+# define O_A 0
+# define O_B 1
+# define O_C 2
+# define O_D 3
+# define O_E 4
+# define O_F 5
+# define O_G 6
+# define O_H 7
+# define O_I 8
+# define O_J 9
 # define O_K 10
 # define O_L 11
 # define O_M 12
@@ -79,27 +79,27 @@
 # define O_P 15
 
 #define MISO 15
-#define MOSI 02
-#define SCLK 04
+#define MOSI 2
+#define SCLK 4
 
 #define SCL 27
 #define SDA 14
 
 #define MUX_S0 15
-#define MUX_S1 02
+#define MUX_S1 2
 #define MUX_S2 12
-#define MUX_S3 04
+#define MUX_S3 4
 
-#define McM_ESP32D_4_00_CH_A 00
-#define McM_ESP32D_4_00_CH_B 01
-#define McM_ESP32D_4_00_CH_C 02
-#define McM_ESP32D_4_00_CH_D 03
-#define McM_ESP32D_4_00_CH_E 04
-#define McM_ESP32D_4_00_CH_F 05
-#define McM_ESP32D_4_00_CH_G 06
-#define McM_ESP32D_4_00_CH_H 07
-#define McM_ESP32D_4_00_CH_I 08
-#define McM_ESP32D_4_00_CH_J 09
+#define McM_ESP32D_4_00_CH_A 0
+#define McM_ESP32D_4_00_CH_B 1
+#define McM_ESP32D_4_00_CH_C 2
+#define McM_ESP32D_4_00_CH_D 3
+#define McM_ESP32D_4_00_CH_E 4
+#define McM_ESP32D_4_00_CH_F 5
+#define McM_ESP32D_4_00_CH_G 6
+#define McM_ESP32D_4_00_CH_H 7
+#define McM_ESP32D_4_00_CH_I 8
+#define McM_ESP32D_4_00_CH_J 9
 #define McM_ESP32D_4_00_CH_K 10
 #define McM_ESP32D_4_00_CH_L 11
 #define McM_ESP32D_4_00_CH_M 12
